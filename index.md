@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to 'cagedbirdID'
 
 You can use the [editor on GitHub](https://github.com/Sicily-F/cagedbirdID.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
