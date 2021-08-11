@@ -2,14 +2,20 @@
 
 Code and guidance (written by Sicily Fiennes, with the assistance of Sam Watts) to identify traded animals in highly occluded contexts, based on images.
 
-## Table of Contents
-1. Dictionary of machine learning terms
-2. Hardware requirements: setting up Python and downloading TensorFlow
-3. Running code on University High Performance Computers
-4. Object Detection using the MegaDetector to localise and extract bird crops
-5. Data pre-processing: image augmentation as a method of class balancing
-6. Training convolutional networks: training the models for species identification
-7. Evaluating model performance using cross validation
+## File list for merging photos in Python for side-side pairings for a match-mismatch experiment
+1. Using the merge function...
+
+## File List for image-based species recognition
+2. Dictionary of machine learning terms
+3. Hardware requirements: setting up Python and downloading TensorFlow
+4. Running code on University High Performance Computers
+5. Object Detection using the MegaDetector to localise and extract bird crops
+6. Data pre-processing: image augmentation as a method of class balancing
+7. Training convolutional networks: training the models for species identification
+8. Evaluating model performance using cross validation
+
+## File List for a binary model to distinguish between caged and uncaged photos
+9. 
 
 
 ## Additional information
