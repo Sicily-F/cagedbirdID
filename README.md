@@ -6,7 +6,7 @@ Code and guidance (written by Sicily Fiennes, with the assistance of Sam Watts) 
 1. Using the merge function...
 
 ## File List for image-based species recognition
-2. Dictionary of machine learning terms
+2. Glossary of machine learning terms
 3. Hardware requirements: setting up Python and downloading TensorFlow
 4. Running code on University High Performance Computers
 5. Object Detection using the MegaDetector to localise and extract bird crops
