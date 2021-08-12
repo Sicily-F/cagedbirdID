@@ -4,23 +4,28 @@ Code and guidance (written by Sicily Fiennes, with the assistance of Sam Watts) 
 
 ## File list for merging photos in Python for side-side pairings for a match-mismatch experiment
 1. Using the merge function...
+2. Testing for differences between match/mismatch questions and plotting phylogenies using ggfree
 
 ## File List for image-based species recognition
-2. Glossary of machine learning terms
-3. Hardware requirements: setting up Python and downloading TensorFlow
-4. Running code on University High Performance Computers
-5. Object Detection using the MegaDetector to localise and extract bird crops
-6. Data pre-processing: image augmentation as a method of class balancing
-7. Training convolutional networks: training the models for species identification
-8. Ensembling models
-9. Evaluating model performance using cross validation
+3. Glossary of machine learning terms
+4. Hardware requirements: setting up Python and downloading TensorFlow
+5. Running code on University High Performance Computers
+6. Object Detection using the MegaDetector to localise and extract bird crops
+7. Data pre-processing: image augmentation as a method of class balancing
+8. Training convolutional networks: training the models for species identification
+9. Ensembling models
+10. Evaluating model performance using cross validation
 
 ## File List for a binary model to distinguish between caged and uncaged photos
-10. 
+11. Building a binary model
+12. superimposing uncaged images with caged masks in the foreground, generating new test sets and training a model on folds with differing levels of occlusion
 
-## Machine Learning in R
+## Useful links 
+### Learning Python for the first time
+### Getting to grips with the concept of machine learning
+### Machine Learning and Tensorflow in R
 If you are an R user, please see this tutorial for training - for a similar approach
 You can save your model in Python using the command. save_model (...); which will save your model and its associated Tensorflow graph.
 
 ## Additional information
-The website for this work can be found @ https://sicily-f.github.io/cagedbirdID/. For more information about our methods, processes of deduction and tool selection please contact [sicilyfiennes@gmail.com](mailto:sicilyfiennes@gmail.com). If you have a question related to the material presented here, please create a New Issue under the ‘Issues’ tab above. If you can specify the name of the notebook which your question is related to, that would also be great. 
+The website for this work can be found @ https://sicily-f.github.io/cagedbirdID/, which has more rationale for the project. For more information about our methods, processes of deduction and tool selection please contact [sicilyfiennes@gmail.com](mailto:sicilyfiennes@gmail.com). If you have a question related to the material presented here, please create a New Issue under the ‘Issues’ tab above. If you can specify the name of the notebook which your question is related to, that would also be great. 
