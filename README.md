@@ -19,6 +19,7 @@ Code and guidance (written by Sicily Fiennes, with the assistance of Sam Watts) 
 ## File List for a binary model to distinguish between caged and uncaged photos
 11. Building a binary model
 12. superimposing uncaged images with caged masks in the foreground, generating new test sets and training a model on folds with differing levels of occlusion
+13. Building a Shiny App in R, using a custom model you saved in Python, then there is more flexibility- check one of the desnet augre16 files 
 
 ## Useful links 
 ### Learning Python for the first time
