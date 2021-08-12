@@ -1,4 +1,4 @@
-# Identifying birds in the wildlife trade, introducing 'cagedbirdID'
+# 'cagedbirdID'
 
 Code and guidance (written by Sicily Fiennes, with the assistance of Sam Watts) to identify traded animals in highly occluded contexts, based on images.
 
