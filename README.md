@@ -12,10 +12,11 @@ Code and guidance (written by Sicily Fiennes, with the assistance of Sam Watts) 
 5. Object Detection using the MegaDetector to localise and extract bird crops
 6. Data pre-processing: image augmentation as a method of class balancing
 7. Training convolutional networks: training the models for species identification
-8. Evaluating model performance using cross validation
+8. Ensembling models
+9. Evaluating model performance using cross validation
 
 ## File List for a binary model to distinguish between caged and uncaged photos
-9. 
+10. 
 
 ## Machine Learning in R
 If you are an R user, please see this tutorial for training - for a similar approach
