@@ -1,5 +1,5 @@
 title: cagedbirdID
-logo: /images/android-chrome-192x192.png
+logo: /images/cagedbirdIDlogoCreditAlyssaRicecircle_256.png
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
