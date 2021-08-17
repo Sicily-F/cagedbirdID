@@ -1,4 +1,4 @@
-# 'cagedbirdID': Identifying birds in the wildlife trade
+# 'cagedbirdID': Identifying birds in the wildlife trade ![image of three birds in a cage, trying to fly free](images/cagedbirdIDlogo_Credit_Alyssa_Rice.jpeg)
 This project has been part of my Master's by Research in the Durrell Institute of Conservation and Ecology at the University of Kent. My principal supervisor is [Dr. David Roberts](https://www.kent.ac.uk/anthropology-conservation/people/555/roberts-david) and [Julio Hernandez-Castro](https://www.kent.ac.uk/computing/people/3110/hernandez-castro-julio) in the School of Computing. 
 
 ## Additional information
