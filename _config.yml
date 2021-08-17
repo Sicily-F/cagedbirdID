@@ -1,4 +1,5 @@
 title: cagedbirdID
+logo: /images/cagedbirdIDlogoCreditAlyssaRicecircle.jpeg
 description: Code and guidance (written by Sicily Fiennes, with the assistance of Sam Watts) to identify traded animals in highly occluded contexts, based on images.
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
