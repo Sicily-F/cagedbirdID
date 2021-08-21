@@ -3,8 +3,6 @@ layout: page
 title: Glossary of machine learning terms
 permalink: /glossary/
 ---
-
-# Glossary of useful terms in machine learning 
  
 Convolutional Neural Networks (CNNs):
 
