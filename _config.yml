@@ -5,5 +5,9 @@ plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 #logo: https://github.com/Sicily-F/cagedbirdID/blob/gh-pages/images/cagedbirdIDlogoCreditAlyssaRicecircle.jpeg
 header_pages:
-  - _pages/frontpage.md
-  - _pages/about.md
+  - _pages/glossary.md
+  
+
+include:
+    - _pages
+
