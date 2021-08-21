@@ -1,15 +1,15 @@
 title: cagedbirdID
 logo: /images/cagedbirdIDlogoCreditAlyssaRicecircle_192.png
 remote_theme: pages-themes/minimal@v0.2.0
+header_pages:
+ - /glossary.md
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 #logo: https://github.com/Sicily-F/cagedbirdID/blob/gh-pages/images/cagedbirdIDlogoCreditAlyssaRicecircle.jpeg
 #header_pages:
-  - _pages/glossary.md
+  #- _pages/glossary.md
   
 #include:
     - _pages
-   
-header_pages:
- - /glossary.md
+
 
