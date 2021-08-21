@@ -7,7 +7,6 @@ plugins:
 header_pages:
   - _pages/glossary.md
   
-
 include:
     - _pages
 
