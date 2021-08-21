@@ -1,7 +1,7 @@
 # Identifying birds in the wildlife trade 
 This repository is a contribution which evolved from my Master's by Research in the Durrell Institute of Conservation and Ecology at the University of Kent, which was submitted in September 2021. I hope it can be of some use to you! 
 
-My principal supervisor is [Dr. David Roberts](https://www.kent.ac.uk/anthropology-conservation/people/555/roberts-david) and my secondary supervisor is [Julio Hernandez-Castro](https://www.kent.ac.uk/computing/people/3110/hernandez-castro-julio) in the School of Computing. 
+My principal supervisor is [Dr. David Roberts](https://www.kent.ac.uk/anthropology-conservation/people/555/roberts-david) and my secondary supervisor is [Professor Julio Hernandez-Castro](https://www.kent.ac.uk/computing/people/3110/hernandez-castro-julio) in the School of Computing. 
 
 ## Accessing the R Shiny App
 The final, most successful model from our experimentation was ported to an R Shiny App/
