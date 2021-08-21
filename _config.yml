@@ -11,5 +11,5 @@ plugins:
     - _pages
    
 header_pages:
- - glossary.md
+ - /glossary.md
 
