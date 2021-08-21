@@ -14,4 +14,4 @@ The final, most successful model from our experimentation was ported to an R Shi
 
 ### Using GitHub Pages
 
-This site uses the layout and styles from the Jekyll Minima theme.
+This site uses the layout and styles from the Jekyll Minimal theme.
