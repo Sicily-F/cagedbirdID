@@ -35,6 +35,9 @@ Definition reference:
 ## Accessing the R Shiny App
 The final, most successful model from our experimentation was ported to an R Shiny App:
 
+## Good ML/Python resources
+* [Machine Learning Mastery](https://machinelearningmastery.com/)
+
 ## Additional information
 * Any inquiries about our methods, processes of deduction and tool selection please contact me, [sicilyfiennes@gmail.com](mailto:sicilyfiennes@gmail.com). 
 * If you have a question related specifically to the code presented here, please create a New Issue under the ‘Issues’ tab in the Github Repository. 
