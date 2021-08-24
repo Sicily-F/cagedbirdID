@@ -17,7 +17,7 @@ Code and guidance (written by Sicily Fiennes, with the assistance of Sam Watts) 
 10. Evaluating model performance using cross validation
 
 *Our work flow for the classification of 37 bird species*
-https://github.com/Sicily-F/cagedbirdID/blob/d8c7f074cfebed93e548cf71458aea828cb9617b/text9732.png
+![workflow](/text9732png)
 
 ## File List for a binary model to distinguish between caged and uncaged photos
 11. Building a binary model
