@@ -3,34 +3,47 @@ This website and repository is a contribution which evolved from my Master's by 
 
 My principal supervisor for this work has been [Dr. David Roberts](https://www.kent.ac.uk/anthropology-conservation/people/555/roberts-david) and my secondary supervisor has been [Professor Julio Hernandez-Castro](https://www.kent.ac.uk/computing/people/3110/hernandez-castro-julio) in the School of Computing. 
 
-## Some key machine learning definitions
-Convolutional Neural Networks (CNNs):
+## Species included in our model
 
-Definition reference:
- 
-CUDA/CuDNN: The NVIDIA CUDA® Deep Neural Network library (cuDNN) is a GPU-accelerated library of primitives for deep neural networks. 
+| English name         | Latin name    |
+| -------------        | ------------- |
+| Asian Pied Starling  | Content Cell  |
+| Content Cell         | Content Cell  |
+| Content Cell         | Content Cell  |
+| Content Cell         | Content Cell  |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
 
-Definition source: https://bit.ly/3iD7l8h
- 
-High performance computing (HPC): the ability to process data and perform complex calculations at high speeds. Often used at universities for more computing resources.
- 
-Definition reference: https://ntap.com/3fRvqXg
- 
-Integrated developer environment (IDE): software for building applications that combines common developer tools into a single graphical user interface (GUI).
-
-Definition reference:https://red.ht/37ugrOr
- 
-Machine learning: Machine learning is a branch of artificial intelligence (AI) and computer science which focuses on the use of data and algorithms to imitate the way that humans learn, gradually improving its accuracy.
- 
-Definition reference:https://ibm.co/2Xem3KJ
- 
- 
- 
-Python: 
-Definition reference:
- 
-Tensorflow:
-Definition reference:
  
 ## Accessing the R Shiny App
 The final, most successful model from our experimentation was ported to an R Shiny App:
