@@ -8,7 +8,7 @@ My principal supervisor for this work has been [Dr. David Roberts](https://www.k
 | English name         | Latin name    |
 | -------------        | ------------- |
 | Asian Pied Starling  | Content Cell  |
-| Content Cell         | Content Cell  |
+| Bluethroat        | *Cyanecula svecica*  |
 | Content Cell         | Content Cell  |
 | Content Cell         | Content Cell  |
 | Content Cell  | Content Cell  |
