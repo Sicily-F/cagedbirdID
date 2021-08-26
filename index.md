@@ -2,15 +2,20 @@
 This website and repository is a contribution which evolved from my Master's by Research in the Durrell Institute of Conservation and Ecology at the University of Kent, which was submitted in September 2021. I hope it can be of some use to you! 
 
 My principal supervisor for this work has been [Dr. David Roberts](https://www.kent.ac.uk/anthropology-conservation/people/555/roberts-david) and my secondary supervisor has been [Professor Julio Hernandez-Castro](https://www.kent.ac.uk/computing/people/3110/hernandez-castro-julio) in the School of Computing. 
+ 
+## Accessing the R Shiny App
+The final, most successful model from our experimentation was ported to an R Shiny App:
 
 ## Species included in our model
 
 | English name         | Latin name    |
 | -------------        | ------------- |
-| Asian Pied Starling  | Content Cell  |
-| Bluethroat        | *Cyanecula svecica*  |
-| Content Cell         | Content Cell  |
-| Content Cell         | Content Cell  |
+| Asian Pied Starling  | Gracupica contra |
+| Bali Myna         | Content Cell  |
+| Bluethroat         | *Cyanecula svecica*   |
+| Blue-masked Leafbird  | Content Cell  |
+| Black-naped Oriole  | Content Cell  |
+| Black-winged Myna | Content Cell  |
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
@@ -40,16 +45,6 @@ My principal supervisor for this work has been [Dr. David Roberts](https://www.k
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-
- 
-## Accessing the R Shiny App
-The final, most successful model from our experimentation was ported to an R Shiny App:
-
-## Good ML/Python resources
-* [Machine Learning Mastery](https://machinelearningmastery.com/)
 
 ## Additional information
 * Any inquiries about our methods, processes of deduction and tool selection please contact me, [sicilyfiennes@gmail.com](mailto:sicilyfiennes@gmail.com). 
