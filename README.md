@@ -26,6 +26,8 @@ Code and guidance (written by Sicily Fiennes, with the assistance of Sam Watts) 
 
 ## Useful links 
 ### Learning Python for the first time
+* [Machine Learning Mastery](https://machinelearningmastery.com/) - Dr. Jason Brownlee
+* 
 ### Getting to grips with the concept of machine learning
 ### Machine Learning and Tensorflow in R
 If you are an R user, please see this tutorial for training - for a similar approach
