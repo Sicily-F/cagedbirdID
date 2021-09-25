@@ -10,41 +10,43 @@ The final, most successful model from our experimentation was ported to an R Shi
 
 | English name         | Latin name    |
 | -------------        | ------------- |
-| Asian Pied Starling  | Gracupica contra |
-| Bali Myna         | Content Cell  |
+| Asian Pied Starling  | *Gracupica contra* |
+| Bali Myna         | *Leucospar rothschildi*  |
 | Bluethroat         | *Cyanecula svecica*   |
-| Blue-masked Leafbird  | Content Cell  |
-| Black-naped Oriole  | Content Cell  |
-| Black-winged Myna | Content Cell  |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| Blue-masked Leafbird  | *Chloropsis venusta*  |
+| Black-naped Oriole  | *Oriolus chinensis*  |
+| Black-winged Myna | *Acridotheres melanopterus*  |
+| Blue-winged Leafbird  | *Chloropsis moluccensis*  |
+| Chestnut-flanked White-eye  | *Zosterops erythropleurus*  |
+| Chestnut-capped Laughingthrush  | *Garrulax mitratus*  |
+| Chestnut-capped Thrush  | *Geokichla interpres*  |
+| Chestnut Munia  | *Lonchura atricapilla*  |
+| Common Myna  | *Acridotheres tristis*  |
+| Fischer’s Lovebird  | *Agapornis fischeri*  |
+| Greater Green Leafbird  | *Chloropsis sonnerati*  |
+| Grey Parrot  | *Psittacus erithacus*  |
+| Common Hill Myna  | *Gracula religiosa*  |
+| Chinese Hwamei  | *Garrulax canorus*  |
+| Japanese Grosbeak  | *Eophona personata*  |
+| Java Sparrow  | *Lonchura oryzivora*  |
+| Javan Green Magpie  | *Cissa thalassina*  |
+| Red-billed Leiothrix  | *Leiothrix lutea*  |
+| Long-tailed Shrike  | *Lanius schach*  |
+| Orange-headed Thrush  | *Geokichla citrina*  |
+| Oriental Magpie-robin  | *Copyschus saularis*  |
+| Rufous-fronted Laughingthrush  | *Garrulax rufifrons*  |
+| Red-whiskered Bulbul  | *Pycnonotus jocosus*  |
+| Red-billed Starling  | *Spodiospar sericeus*  |
+| Siberian Rubythroat  | *Calliope calliope*  |
+| Sumatran Laughingthrush  | *Garrulax bicolor*  |
+| Silver-eared Mesia | *Leiothrix argentauris*  |
+| Scaly-breasted Munia  | *Lonchura punctulata*  |
+| Straw-headed Bulbul  | *Pycnonotus zeylanicus*  |
+| Swinhoe’s White-eye  | *Zosterops simplex*  |
+| White-rumped Munia  | *Lonchura striata*  |
+| White-rumped Shama  | *Copsychus malabaricus*  |
+| Zebra Dove  | *Geopelia striata*  |
+| Zebra Finch  | *Taenopygia castanotis*  |
 
 ## Additional information
 * Any inquiries about our methods, processes of deduction and tool selection please contact me, [sicilyfiennes@gmail.com](mailto:sicilyfiennes@gmail.com). 
