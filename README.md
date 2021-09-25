@@ -2,7 +2,7 @@
 
 Code and guidance (written by Sicily Fiennes, with the assistance of Sam Watts) to identify traded animals in highly occluded contexts, based on images.
 
-## File list for merging photos in Python for side-side pairings for a match-mismatch experiment
+## File List for merging photos in Python for side-side pairings for a match-mismatch experiment
 1. Using the merge function in Python to set up a match-mismatch survey
 2. Testing for differences between match/mismatch questions and plotting phylogenies using ggfree
 
