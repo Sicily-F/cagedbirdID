@@ -30,10 +30,5 @@ Code and guidance (written by Sicily Fiennes, with the assistance of Sam Watts) 
 * [Machine Learning Mastery](https://machinelearningmastery.com/) - Dr. Jason Brownlee
 * [Deep Lizard](https://www.youtube.com/watch?v=Zrt76AIbeh4&t=441s)
 
-### Getting to grips with the concept of machine learning
-### Machine Learning and Tensorflow in R
-If you are an R user, please see this tutorial for training - for a similar approach
-You can save your model in Python using the command. save_model (...); which will save your model and its associated Tensorflow graph.
-
 ## Additional information
 The website for this work can be found @ https://sicily-f.github.io/cagedbirdID/, which has more rationale for the project. For more information about our methods, processes of deduction and tool selection please contact [sicilyfiennes@gmail.com](mailto:sicilyfiennes@gmail.com). If you have a question related to the material presented here, please create a New Issue under the ‘Issues’ tab above. If you can specify the name of the notebook which your question is related to, that would also be great. 
