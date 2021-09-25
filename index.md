@@ -4,7 +4,7 @@ This website and repository is a contribution which evolved from my Master's by 
 My principal supervisor for this work has been [Dr. David Roberts](https://www.kent.ac.uk/anthropology-conservation/people/555/roberts-david) and my secondary supervisor has been [Professor Julio Hernandez-Castro](https://www.kent.ac.uk/computing/people/3110/hernandez-castro-julio) in the School of Computing. 
  
 ## Accessing the R Shiny App
-The final, most successful model from our experimentation was ported to an R Shiny App:
+The final, most successful model from our experimentation was ported to an R Shiny App, which will be made available soon.
 
 ## Species included in our model
 
