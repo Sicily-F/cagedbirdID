@@ -18,7 +18,7 @@ Code and guidance (written by Sicily Fiennes, with the assistance of Sam Watts) 
 
 ## File List for a binary model to distinguish between caged and uncaged photos
 11. Building a binary model
-12. Superimposing uncaged images with caged masks in the foreground, generating new test sets and training a model on folds with differing levels of occlusion
+12. Superimposing uncaged images with caged masks in the foreground
 
 *Our work flow for the classification of 37 bird species*
 
